@@ -1,2 +1,2 @@
 # autogen-coder-test
-A repository for testing autogen coding. all code created with AI
+A repository for tetsing autogen coding. All code created with AI
